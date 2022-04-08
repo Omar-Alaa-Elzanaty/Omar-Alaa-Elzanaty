@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/omar-alznaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-alznaty" height="30" width="40" /></a>
 <a href="https://fb.com/100006484611512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006484611512" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@oalaaa234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar alaa el zanaty" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/zanaty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zanaty_" height="30" width="40" /></a>
 </p>
 
