@@ -23,7 +23,8 @@
 * Help my friends and students in our university to start their way in learning problem-solving and programming fundamentals
 * My typing speed on the keyboard is 70 WPS it is interesting to me and wish the same to you 😁.
 
->  In all my projects I go deep with design by drawing uml and sometimes drawing use cases to clarifying the system flow.
+>  In all my projects I go deep with design by drawing uml and sometimes drawing use cases to clarify the system flow.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-alaa-elzanaty&label=Profile%20views&color=0e75b6&style=flat" alt="omar-alaa-elzanaty" /> </p>
 
