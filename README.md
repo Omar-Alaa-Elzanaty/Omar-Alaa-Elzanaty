@@ -1,8 +1,29 @@
 <h1 align="center">Hi 👋, I'm Omar Alaa</h1>
 <h3 align="center">Computer science student 4th year / dot-net developer / problem-solving instructor and mentor ⭐</h3>
 
-* I am currently learning backend with dot net & looking forward to contribute on real dotnet projects
-* had interned with SBS-Specialized Bussiness Solution Company on one of their market projects.
+* I am currently learning backend with dot net & looking forward to contributing to real dotnet projects
+* interned with SBS-Specialized Bussiness Solution Company on one of their market projects.
+* Knows about most popular topics in Dotnet like:
+  - C#
+  - Ms Sql
+  - Linq
+  - Entity Framework
+  - API
+  - JWT
+  - Logger
+  - Identity
+* Having  knowledge and experience in some software basics topics like data structure, algorithm, Database, Solid Principles
+* knows about some design patterns like:
+  - Factory pattern
+  - Builder pattern
+  - Strategy Pattern
+  - Singleton pattern
+  - Abstract factory pattern
+* Easily working with Git & GitHub  💥
+* Help my friends and students in our university to start their way in learning problem-solving and programming fundamentals
+* My typing speed on the keyboard is 70 WPS it is interesting to me and wish the same to you 😁.
+
+>  In all my projects I go deep with design by drawing uml and sometimes drawing use cases to clarifying the system flow.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-alaa-elzanaty&label=Profile%20views&color=0e75b6&style=flat" alt="omar-alaa-elzanaty" /> </p>
 
