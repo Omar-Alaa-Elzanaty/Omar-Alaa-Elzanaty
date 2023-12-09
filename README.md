@@ -25,7 +25,7 @@
 
 >  In all my projects I go deep with design by drawing uml and sometimes drawing use cases to clarify the system flow.
 
-</n>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-alaa-elzanaty&label=Profile%20views&color=0e75b6&style=flat" alt="omar-alaa-elzanaty" /> </p>
 
 <h3 align="left">Connect with me:</h3>
