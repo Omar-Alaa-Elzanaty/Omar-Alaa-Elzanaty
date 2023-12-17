@@ -12,7 +12,7 @@
   - JWT
   - Logger
   - Identity
-* Having  knowledge and experience in some software basics topics like data structure, algorithm, Database, Solid Principles
+* Having  knowledge and experience in some software basics topics like Object Oriented,Data structure, Algorithm, Database, Solid Principles
 * knows about some design patterns like:
   - Factory pattern
   - Builder pattern
