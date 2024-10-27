@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Alaa</h1>
-<h3 align="center">Computer science student 4th year / dot-net developer / problem-solving instructor and mentor ⭐</h3>
+<h3 align="center"> Dot-net developer / problem-solving instructor and mentor ⭐</h3>
 
 * I am currently learning backend with dot net & looking forward to contributing to real dotnet projects
 * interned with SBS-Specialized Bussiness Solution Company on one of their market projects.
