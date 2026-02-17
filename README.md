@@ -26,9 +26,9 @@
 
 ### 🌟 Featured Projects
 
-* **[Chat App](https://github.com/Omar-Alaa-Elzanaty)**: Real-time messaging with SignalR and Redis-backed distributed broadcasting.
-* **[PSolve Website](https://github.com/Omar-Alaa-Elzanaty)**: Multi-tenant system for community task management using Clean Architecture and HangFire.
-* **[Metro-DFS](https://github.com/Omar-Alaa-Elzanaty)**: High-performance routing engine for Cairo Metro using DFS algorithms.
+* **[Chat App](https://github.com/Omar-Alaa-Elzanaty/Hello-Chat)**: Real-time messaging with SignalR and Redis-backed distributed broadcasting.
+* **[PSolve Website]**: Multi-tenant system for community task management using Clean Architecture and HangFire.
+* **[Metro-DFS](https://github.com/Omar-Alaa-Elzanaty/MetroDFS)**: High-performance routing engine for Cairo Metro using DFS algorithms.
 
 ---
 
